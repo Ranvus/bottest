@@ -4,7 +4,7 @@
   "description": "telegram bot",
   "main": "weather.py",
   "scripts": {
-    "start": "weather.py"
+    "start": "node ./backend/weather.py"
   },
   "repository": {
     "type": "git",
